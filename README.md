@@ -1,4 +1,4 @@
-# pool-battle
+# POOL BATTLE
 
 The Pool Battle is a multiplayer web game application based on core JavaScript and HTML canvas. 
 
